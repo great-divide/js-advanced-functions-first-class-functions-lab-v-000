@@ -10,7 +10,3 @@ const selectingDrivers = [
   returnFirstTwoDrivers,
   returnLastTwoDrivers
 ]
-
-(function createFareMultiplier() {
-  
-})
